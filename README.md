@@ -1,2 +1,2 @@
 # azureidentity
-Intrduction to the Identity and access management framework
+Intr0duction to the Identity and access management framework
